@@ -4,12 +4,12 @@ Este é um projeto de um sistema de gestão de estacionamento desenvolvido em Ja
 
 ## Funcionalidades
 
-- Cadastro de veículos
-- Controle de entrada e saída
-- Cálculo de tarifas com base no tempo estacionado
+- Cadastro de pets
+- Tipo de atendimento
+- 
+- Cálculo de tarifas com base no plano
 - Persistência de dados usando CSV
-- Função de testes
-- Teste unitário
+- Renda mensal
 
 ## Certifique-se de ter os seguintes softwares instalados em sua máquina:
 
