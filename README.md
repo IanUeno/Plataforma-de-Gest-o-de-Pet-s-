@@ -1,2 +1,2 @@
-# Plataforma-de-Gest-o-de-Pet-s-
+# Plataforma de Gestão de Pets
 ...
